@@ -1,0 +1,1 @@
+from t4pcommunity/python-devcontainer:latest
