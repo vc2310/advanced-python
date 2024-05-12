@@ -1,0 +1,225 @@
+Animal,Endangered,Origin
+Dog,No,Worldwide
+Kangaroo,Yes,Australia
+Lion,Yes,Africa
+Bear,Yes,Various
+Dolphin,Yes,Worldwide
+Tiger,Yes,Asia
+Gorilla,Yes,Africa
+Cheetah,Yes,Africa
+Owl,Yes,Worldwide
+Fox,Yes,Worldwide
+Zebra,Yes,Africa
+Elephant,Yes,Africa,Asia
+Armadillo,Yes,Americas
+Parrot,Yes,Worldwide
+Alligator,Yes,Americas
+Emu,No,Australia
+Koala,Yes,Australia
+Chimpanzee,Yes,Africa
+Rhinoceros,Yes,Africa,Asia
+Camel,No,Asia,Africa
+Puma,Yes,Americas
+Leopard,Yes,Various
+Bald Eagle,No,North America
+Platypus,Yes,Australia
+Orangutan,Yes,Asia
+Meerkat,No,Africa
+Dalmatian,No,Worldwide
+Ostrich,No,Africa
+Polar Bear,Yes,Arctic
+Crocodile,Yes,Worldwide
+Bison,Yes,Americas
+Falcon,Yes,Worldwide
+Peacock,No,Asia
+Hippopotamus,Yes,Africa
+Cobra,Yes,Africa,Asia
+Lemur,Yes,Madagascar
+Dingo,No,Australia
+Iguana,Yes,Americas
+Wallaby,Yes,Australia
+Chameleon,Yes,Africa,Asia
+Giraffe,Yes,Africa
+Puffin,Yes,Northern Hemisphere
+Gazelle,Yes,Africa
+Sloth,Yes,Various
+Wombat,No,Australia
+Grizzly Bear,Yes,North America
+Python,Yes,Africa,Asia,Americas
+Humpback Whale,Yes,Worldwide
+Manatee,Yes,Worldwide
+Otter,Yes,Worldwide
+Snow Leopard,Yes,Asia
+Raccoon,Yes,Americas
+Albatross,Yes,Southern Ocean
+Tasmanian Devil,Yes,Australia
+Mantis Shrimp,Yes,Worldwide
+Tasmanian Tiger,Yes,Australia
+Praying Mantis,Yes,Worldwide
+Horned Toad,Yes,Americas
+Lynx,Yes,Northern Hemisphere
+Macaw,Yes,Americas
+Tapir,Yes,Americas,Asia
+Caiman,Yes,Americas
+Red Panda,Yes,Asia
+Dhole,Yes,Asia
+Capybara,Yes,Americas
+Gila Monster,Yes,North America
+Eagle Ray,Yes,Worldwide
+Galapagos Tortoise,Yes,Galapagos Islands
+Seahorse,Yes,Worldwide
+Rattlesnake,Yes,Americas
+Caracal,Yes,Africa,Asia
+Okapi,Yes,Africa
+Fennec Fox,Yes,Africa
+Narwhal,Yes,Arctic
+Pangolin,Yes,Asia,Africa
+Snowy Owl,Yes,Northern Hemisphere
+Gibbon,Yes,Asia
+Bald Eagle,No,North America
+Pangolin,Yes,Asia,Africa
+Narwhal,Yes,Arctic
+Sloth,Yes,Various
+Bald Eagle,No,North America
+Dalmatian,No,Worldwide
+Panda,Yes,Asia
+Okapi,Yes,Africa
+Python,Yes,Africa,Asia,Americas
+Rhinoceros,Yes,Africa,Asia
+Caiman,Yes,Americas
+Koala,Yes,Australia
+Cheetah,Yes,Africa
+Snowy Owl,Yes,Northern Hemisphere
+Hyena,Yes,Africa,Asia
+Komodo Dragon,Yes,Asia
+Tasmanian Tiger,Yes,Australia
+Praying Mantis,Yes,Worldwide
+Lemur,Yes,Madagascar
+Dhole,Yes,Asia
+Capybara,Yes,Americas
+Gila Monster,Yes,North America
+Zebra,Yes,Africa
+Iguana,Yes,Americas
+Cheetah,Yes,Africa
+Eagle Ray,Yes,Worldwide
+Meerkat,No,Africa
+Jaguar,Yes,Americas
+Ostrich,No,Africa
+Galapagos Tortoise,Yes,Galapagos Islands
+Seahorse,Yes,Worldwide
+Rattlesnake,Yes,Americas
+Caracal,Yes,Africa,Asia
+Lemur,Yes,Madagascar
+Tasmanian Devil,Yes,Australia
+Red Fox,Yes,Worldwide
+Koala,Yes,Australia
+Armadillo,Yes,Americas
+Gibbon,Yes,Asia
+Tapir,Yes,Americas,Asia
+Alligator,Yes,Americas
+Bald Eagle,No,North America
+Dolphin,Yes,Worldwide
+Hippopotamus,Yes,Africa
+Chimpanzee,Yes,Africa
+Bear,Yes,Various
+Pangolin,Yes,Asia,Africa
+Narwhal,Yes,Arctic
+Sloth,Yes,Various
+Bald Eagle,No,North America
+Dalmatian,No,Worldwide
+Panda,Yes,Asia
+Okapi,Yes,Africa
+Python,Yes,Africa,Asia,Americas
+Rhinoceros,Yes,Africa,Asia
+Caiman,Yes,Americas
+Koala,Yes,Australia
+Cheetah,Yes,Africa
+Snowy Owl,Yes,Northern Hemisphere
+Hyena,Yes,Africa,Asia
+Komodo Dragon,Yes,Asia
+Tasmanian Tiger,Yes,Australia
+Raccoon,Yes,Americas
+Chimpanzee,Yes,Africa
+Gorilla,Yes,Africa
+Dolphin,Yes,Worldwide
+Cheetah,Yes,Africa
+Fox,Yes,Worldwide
+Polar Bear,Yes,Arctic
+Caiman,Yes,Americas
+Koala,Yes,Australia
+Rhinoceros,Yes,Africa,Asia
+Puma,Yes,Americas
+Chimpanzee,Yes,Africa
+Camel,No,Asia,Africa
+Tiger,Yes,Asia
+Lemur,Yes,Madagascar
+Bald Eagle,No,North America
+Armadillo,Yes,Americas
+Cheetah,Yes,Africa
+Emu,No,Australia
+Orangutan,Yes,Asia
+Giraffe,Yes,Africa
+Fox,Yes,Worldwide
+Dingo,No,Australia
+Kangaroo,Yes,Australia
+Parrot,Yes,Worldwide
+Penguin,Yes,Antarctica
+Cobra,Yes,Africa,Asia
+Ostrich,No,Africa
+Sloth,Yes,Various
+Chimpanzee,Yes,Africa
+Bear,Yes,Various
+Dolphin,Yes,Worldwide
+Alligator,Yes,Americas
+Gorilla,Yes,Africa
+Cheetah,Yes,Africa
+Tiger,Yes,Asia
+Zebra,Yes,Africa
+Kangaroo,Yes,Australia
+Lion,Yes,Africa
+Leopard,Yes,Various
+Chimpanzee,Yes,Africa
+Dolphin,Yes,Worldwide
+Caiman,Yes,Americas
+Raccoon,Yes,Americas
+Grizzly Bear,Yes,North America
+Tasmanian Devil,Yes,Australia
+Ocelot,Yes,Americas
+Bald Eagle,No,North America
+Python,Yes,Africa,Asia,Americas
+Snow Leopard,Yes,Asia
+Hyena,Yes,Africa,Asia
+Chimpanzee,Yes,Africa
+Cheetah,Yes,Africa
+Puffin,Yes,Northern Hemisphere
+Wombat,No,Australia
+Wallaby,Yes,Australia
+Manatee,Yes,Worldwide
+Komodo Dragon,Yes,Asia
+Iguana,Yes,Americas
+Chimpanzee,Yes,Africa
+Gazelle,Yes,Africa
+Cobra,Yes,Africa,Asia
+Snowy Owl,Yes,Northern Hemisphere
+Jaguar,Yes,Americas
+Blue Whale,Yes,Worldwide
+Lemur,Yes,Madagascar
+Praying Mantis,Yes,Worldwide
+Tasmanian Tiger,Yes,Australia
+Horned Toad,Yes,Americas
+Tapir,Yes,Americas,Asia
+Tasmanian Devil,Yes,Australia
+Cheetah,Yes,Africa
+Dhole,Yes,Asia
+Lynx,Yes,Northern Hemisphere
+Macaw,Yes,Americas
+Albatross,Yes,Southern Ocean
+Galapagos Tortoise,Yes,Galapagos Islands
+Caiman,Yes,Americas
+Red Panda,Yes,Asia
+Lemur,Yes,Madagascar
+Meerkat,No,Africa
+Iguana,Yes,Americas
+Caracal,Yes,Africa,Asia
+Seahorse,Yes,Worldwide
+Gila Monster,Yes,North America

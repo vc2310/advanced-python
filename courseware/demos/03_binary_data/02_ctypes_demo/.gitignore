@@ -1,0 +1,12 @@
+venv
+__pycache_
+*.egg-info
+*.out
+*.dylib
+build
+dist
+*.pyc
+.DS_Store
+*.dll
+*.o
+*.so
